@@ -63,4 +63,8 @@ body{
             font-weight: 300;
         }
 
-      
+        .tarjetasConHover a{
+            font-weight: 500;
+            text-decoration: none;
+            color: #3498db;
+        }
