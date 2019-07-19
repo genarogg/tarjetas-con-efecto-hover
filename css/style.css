@@ -48,5 +48,12 @@ body{
     box-shadow: 0 12px 16px rgba(0, 0, 0, 0.2);
 }
 
-        
+        .tarjetasConHover img{
+            width: 330px;
+            height: 220px;
+        }
+        .tarjetasConHover h4{
+            font-weight: 600;
+        }
+
         
